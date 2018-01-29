@@ -14,6 +14,7 @@ public class Main {
 	
 	public static void  metoda2() {
 		System.out.println("sunt in metoda din clasa main");
+		System.out.println("am mai adaugat ceva");
 	}
 
 }
